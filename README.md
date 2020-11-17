@@ -17,7 +17,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Lecture Slides
-Lecture slides aren't included in this repository.  If you'd like to use slides from the past CS Bridge offering, visit the CS Bridge 2020 online course website [here](online.csbridge.org) and select any of the dropdown links from "Lectures".  Change the .pdf to .pptx to get an editable copy.
+Lecture slides aren't included in this repository.  If you'd like to use slides from the past CS Bridge offering, visit the CS Bridge 2020 online course website [here](//online.csbridge.org) and select any of the dropdown links from "Lectures".  Change the .pdf to .pptx to get an editable copy.
 
 ## Website Updates
 

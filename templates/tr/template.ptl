@@ -1,2 +1,0 @@
-% rebase('templates/template.ptl', lang="tr")
-{{!base}}

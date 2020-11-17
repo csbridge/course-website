@@ -1,1 +1,0 @@
-../../../en/projects/keyboardKarel/soln.py

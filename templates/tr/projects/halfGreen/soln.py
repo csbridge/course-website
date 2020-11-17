@@ -1,1 +1,0 @@
-../../../en/projects/halfGreen/soln.py

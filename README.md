@@ -14,6 +14,7 @@ Make sure to install all necessary tools before working on this website:
 
 ```
 pip3 install -r requirements.txt
+python -m pip install -U watchdog[watchmedo]
 ```
 
 ## Lecture Slides
